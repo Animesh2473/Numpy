@@ -4,6 +4,7 @@ This repository contains resources, tutorials, and practice files for learning a
 
 ![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
 
+
 ## Folder Structure
 
 ```
