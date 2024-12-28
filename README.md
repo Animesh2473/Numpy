@@ -2,7 +2,8 @@
 
 This repository contains resources, tutorials, and practice files for learning and mastering the NumPy library in Python.
 
-![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
+![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
+
 
 
 ## Folder Structure
